@@ -1,22 +1,9 @@
 {
-  "name": "request-to-pull-team-auraz-adrien-cedric",
-  "version": "1.0.0",
-  "description": "## opdracht",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EHB-MCT/request-to-pull-team-auraz-adrien-cedric.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EHB-MCT/request-to-pull-team-auraz-adrien-cedric/issues"
-  },
-  "homepage": "https://github.com/EHB-MCT/request-to-pull-team-auraz-adrien-cedric#readme",
-  "dependencies": {
-    "node": "^16.10.0"
-  }
+    "name": "socket-chat-example",
+    "version": "0.0.1",
+    "description": "my first socket.io app",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^4.3.0"
+    }
 }
